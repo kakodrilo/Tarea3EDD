@@ -1,0 +1,24 @@
+Joaquín Castillo 201773520-1 paralelo 200 
+
+   Problema 1:-Definición de estructuras
+	      -Implementación de funciones:
+		-iniciarLista
+		-iniciarGrafo
+		-Agregar
+
+Rodrigo Orellana 201773522-8 paralelo 202
+
+   Problema 1:-Implementación del main
+	      -Implementación de funciones:
+		-reiniciarMarca
+		-vaciar
+		-VaciarGrafo
+
+Axel Reyes 201773502-3 paralelo 200
+   
+   Problema 1:-Implementación de funciones:
+		-marcar
+		-primero
+		-siguiente
+		-obt_marca
+		-DFS
